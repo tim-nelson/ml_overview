@@ -1,6 +1,8 @@
 # Machine Learning Overview
 
-The notebook in this repository contains my Python machine learning notes. I update and improve my notes as I go along and use them as a reference for my projects.
+The notebook in this repository contains my Python machine learning notes. It is a work in progress; I update and improve my notes as I go along and use them as a reference for my projects.
+
+Resources used are mainly notes from Oxford University ML courses and the books Deep Learning with Python by Francois Chollet and Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow.
 
 
 ## AWS E2 Set-Up
