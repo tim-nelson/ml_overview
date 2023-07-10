@@ -1,0 +1,17 @@
+Epoch 9/12
+
+Epoch 00009: saving optimizer to ..\models\00009-mnist_hyp_search_best\checkpoints\model-09-0.16.pickle
+750/750 - 4s - loss: 0.0293 - accuracy: 0.9902 - val_loss: 0.1629 - val_accuracy: 0.9628 - 4s/epoch - 6ms/step
+Epoch 10/12
+
+Epoch 00010: saving optimizer to ..\models\00009-mnist_hyp_search_best\checkpoints\model-10-0.16.pickle
+750/750 - 4s - loss: 0.0226 - accuracy: 0.9925 - val_loss: 0.1628 - val_accuracy: 0.9655 - 4s/epoch - 6ms/step
+Epoch 11/12
+
+Epoch 00011: saving optimizer to ..\models\00009-mnist_hyp_search_best\checkpoints\model-11-0.17.pickle
+750/750 - 4s - loss: 0.0235 - accuracy: 0.9920 - val_loss: 0.1719 - val_accuracy: 0.9649 - 4s/epoch - 5ms/step
+Epoch 12/12
+
+Epoch 00012: saving optimizer to ..\models\00009-mnist_hyp_search_best\checkpoints\model-12-0.20.pickle
+750/750 - 4s - loss: 0.0190 - accuracy: 0.9937 - val_loss: 0.2038 - val_accuracy: 0.9617 - 4s/epoch - 5ms/step
+Elapsed time: 0:00:16.49

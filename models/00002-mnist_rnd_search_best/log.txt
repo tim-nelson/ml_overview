@@ -1,0 +1,17 @@
+Epoch 11/20
+
+Epoch 00011: saving optimizer to ..\models\00002-mnist_rnd_search_best\checkpoints\model-11-0.13.pickle
+750/750 - 9s - loss: 0.0424 - accuracy: 0.9869 - root_mean_squared_error: 5.2296 - val_loss: 0.1301 - val_accuracy: 0.9703 - val_root_mean_squared_error: 5.2505 - 9s/epoch - 12ms/step
+Epoch 12/20
+
+Epoch 00012: saving optimizer to ..\models\00002-mnist_rnd_search_best\checkpoints\model-12-0.17.pickle
+750/750 - 12s - loss: 0.0315 - accuracy: 0.9898 - root_mean_squared_error: 5.2297 - val_loss: 0.1727 - val_accuracy: 0.9647 - val_root_mean_squared_error: 5.2505 - 12s/epoch - 16ms/step
+Epoch 13/20
+
+Epoch 00013: saving optimizer to ..\models\00002-mnist_rnd_search_best\checkpoints\model-13-0.16.pickle
+750/750 - 11s - loss: 0.0264 - accuracy: 0.9919 - root_mean_squared_error: 5.2297 - val_loss: 0.1588 - val_accuracy: 0.9707 - val_root_mean_squared_error: 5.2505 - 11s/epoch - 14ms/step
+Epoch 14/20
+
+Epoch 00014: saving optimizer to ..\models\00002-mnist_rnd_search_best\checkpoints\model-14-0.18.pickle
+750/750 - 11s - loss: 0.0209 - accuracy: 0.9928 - root_mean_squared_error: 5.2297 - val_loss: 0.1812 - val_accuracy: 0.9655 - val_root_mean_squared_error: 5.2505 - 11s/epoch - 14ms/step
+Elapsed time: 0:00:42.31

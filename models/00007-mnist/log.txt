@@ -1,0 +1,21 @@
+Epoch 6/10
+
+Epoch 00006: saving optimizer to ..\models\00007-mnist\checkpoints\model-06-0.15.pickle
+750/750 - 4s - loss: 0.0545 - accuracy: 0.9838 - root_mean_squared_error: 5.2295 - val_loss: 0.1542 - val_accuracy: 0.9590 - val_root_mean_squared_error: 5.2503 - 4s/epoch - 5ms/step
+Epoch 7/10
+
+Epoch 00007: saving optimizer to ..\models\00007-mnist\checkpoints\model-07-0.13.pickle
+750/750 - 3s - loss: 0.0430 - accuracy: 0.9875 - root_mean_squared_error: 5.2295 - val_loss: 0.1299 - val_accuracy: 0.9646 - val_root_mean_squared_error: 5.2504 - 3s/epoch - 5ms/step
+Epoch 8/10
+
+Epoch 00008: saving optimizer to ..\models\00007-mnist\checkpoints\model-08-0.15.pickle
+750/750 - 4s - loss: 0.0329 - accuracy: 0.9897 - root_mean_squared_error: 5.2296 - val_loss: 0.1482 - val_accuracy: 0.9628 - val_root_mean_squared_error: 5.2504 - 4s/epoch - 5ms/step
+Epoch 9/10
+
+Epoch 00009: saving optimizer to ..\models\00007-mnist\checkpoints\model-09-0.14.pickle
+750/750 - 4s - loss: 0.0253 - accuracy: 0.9921 - root_mean_squared_error: 5.2296 - val_loss: 0.1371 - val_accuracy: 0.9652 - val_root_mean_squared_error: 5.2504 - 4s/epoch - 5ms/step
+Epoch 10/10
+
+Epoch 00010: saving optimizer to ..\models\00007-mnist\checkpoints\model-10-0.14.pickle
+750/750 - 4s - loss: 0.0200 - accuracy: 0.9942 - root_mean_squared_error: 5.2296 - val_loss: 0.1449 - val_accuracy: 0.9641 - val_root_mean_squared_error: 5.2505 - 4s/epoch - 5ms/step
+Elapsed time: 0:00:18.19
